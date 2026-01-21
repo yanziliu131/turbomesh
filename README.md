@@ -1,4 +1,10 @@
-# turbomesh
+> ## ⚠️ Turbomesh has moved
+> The active development has moved to **[pascalPost/turbomesh](https://github.com/pascalPost/turbomesh)**:
+>
+> This repository is kept for history and will receive **no new features**.
+
+
+# turbomesh-legecy
 
 An automated mesher for turbomachinery applications (written in rust).
 
